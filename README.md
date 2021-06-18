@@ -18,6 +18,6 @@ Autonomous Driving based on DQN
 - GenerateOtherCar.py : generate other vehicle and update the states based on each behavior(lane keep/slow)
 
 **for showing pygame simulation, need to download the images and modify the each directory in the code. 
-**bg.png: env.py -> line 35 
-**car.png: GenerateCar.py -> line.26
-**oppponent_car: GenerateOtherCar.py -> line.19
+bg.png: env.py -> line 35 
+car.png: GenerateCar.py -> line.26
+oppponent_car: GenerateOtherCar.py -> line.19
