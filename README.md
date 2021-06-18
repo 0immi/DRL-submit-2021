@@ -11,7 +11,7 @@ Autonomous Driving based on DQN
 - matplotlib
 
 <br> 
-3. Description 
+3. Description <br>
 - main.py : main file for learning based on DQN<br> 
 - env.py : overall autonmous driving environment based on pygame<br>
 - GenerateCar.py : generate ego vehicle and update the states based on action learnt by DQN<br> 
